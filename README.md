@@ -2,7 +2,7 @@
 
 ### An Arduino-based Smart Home System for Efficient Climate Control and Security
 
-Below is an prototype
+**Below is an prototype of the project**
 ![Smart Home Control](arduino_project.jpg)
 
 This project involves an Arduino-based smart controller that detects human presence and measures ambient temperature to automatically adjust fan speed or AC temperature to optimal levels. Additionally, it functions as a home security system, detecting intruders and triggering alerts when necessary.
